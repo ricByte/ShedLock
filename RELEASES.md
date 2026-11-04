@@ -1,5 +1,8 @@
 # Release notes
 
+## 7.11.0
+* DynamoDBLockProvider can be built from an enhanced-client DynamoDbTable (thanks @ricByte)
+
 ## 7.10.1 (2026-09-08)
 * Fix Neo4j ordering for lock extension #3739
 * Dependency updates
